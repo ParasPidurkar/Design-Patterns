@@ -11,6 +11,15 @@ Rule 2: Global Access (Everyone Can Find It) You don't need to ask permission to
 
 Code Translation: You can access it from anywhere in your code using Spike.getInstance().
 
+The Definition
+"Software entities should be OPEN for Extension, but CLOSED for Modification."
+
+Open for Extension: You can add new features (like a new Agent or Gun).
+
+Closed for Modification: You don't have to touch/break the old code that is already working to add those new features.
+
+
+
 
 Singleton Design Principal
 https://medium.com/@paraspidurkar97/singleton-design-pattern-understanding-with-valorant-b21cc4a75637
