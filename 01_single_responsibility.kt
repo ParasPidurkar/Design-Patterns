@@ -34,7 +34,7 @@ class ValorantAgentController(
 
 // -------------------------------
 // Program Entry Point
-// -------------------------------
+// ------------------------------
 fun main() {
 
     // Create dependencies
